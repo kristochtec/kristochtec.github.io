@@ -30,4 +30,4 @@ tags: [аудиокнига, Обреченное королевство, Пут
 Музыкальное сопровождение: отсутствует
 Время звучания: 49:01:09
 
-https://anchor.fm/denis-korableff5/episodes/ep-e10mhro
+<iframe src="https://anchor.fm/denis-korableff5/embed/episodes/ep-e10mhro/a-a5hj2fj" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
