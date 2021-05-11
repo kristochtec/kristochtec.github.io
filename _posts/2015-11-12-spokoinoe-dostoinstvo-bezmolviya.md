@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Спокойное достоинство безмолвия
 subtitle: Аудиокнига
 cover-img: /assets/img/cover-400-400-dostoinstvo-bezmolvia.jpg
