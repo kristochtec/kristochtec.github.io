@@ -2,7 +2,6 @@
 layout: post
 title: Обреченное Королевство
 subtitle: Аудиокнига
-comments: 
 cover-img: /assets/img/obre4ennoe-korolevstvo.jpg
 thumbnail-img: /assets/img/obre4ennoe-korolevstvo.jpg
 share-img: /assets/img/obre4ennoe-korolevstvo.jpg
